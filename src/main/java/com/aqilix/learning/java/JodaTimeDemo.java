@@ -1,4 +1,4 @@
-package main.java.com.aqilix.learning.java;
+package com.aqilix.learning.java;
 
 import org.joda.time.DateTime;
 
